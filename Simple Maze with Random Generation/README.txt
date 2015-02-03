@@ -1,0 +1,1 @@
+Move the blue dot to the exit with the ikjl keys!
